@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Pizza Restaurant</string>
+    <string name="title_activity_order">OrderActivity</string>
+    <string name="title_activity_store">StoreActivity</string>
+    <string name="title_activity_food_menu">FoodMenuActivity</string>
+    <string name="title_activity_order_detail">OrderDetailActivity</string>
+    <string name="pepperoni_pizza_title">Pepperoni Pizza</string>
+    <string name="pepperoni_pizza_short_description">Cocok bagi anda yang ingin merasakan pizza original dengan taburan keju dan daging asap yang lezat</string>
+    <string name="pepperoni_pizza_long_description">Pepperoni pizza adalah pizza yang memiliki topping daging pepperoni sapi asli. Di Italia, pepperoni disebut salame piccante (salami panas). Biasa menjadi bahan baku pizza di Amerika Serikat, yang sering mewakili 30% pelengkap. Pizza ini cocok untuk santap siang ataupun malam anda</string>
+    <string name="pepperoni_pizza_price">Rp 66.000,00</string>
+    <string name="spaghetti_title">Spaghetti</string>
+    <string name="spaghetti_short_description">Cocok bagi anda yang ingin merasakan spaghetti original dengan bumbu yang oriental</string>
+    <string name="spaghetti_long_description">Spaghetti adalah hidangan pasta yang terkenal di seluruh dunia. Pasta ini biasanya terbuat dari gandum dan memiliki bentuk panjang dan silindris. Kelezatan spaghetti terletak pada perpaduan tekstur pasta yang kenyal dan cita rasa saus yang kaya, menjadikannya hidangan yang disukai oleh banyak orang.</string>
+    <string name="spaghetti_price">Rp 28.000,00</string>
+    <string name="burger_title">Burger</string>
+    <string name="burger_short_description">Cocok bagi anda yang ingin merasakan kelembutan burger berlapiskan keju, sayuran dan daging yang tebal</string>
+    <string name="burger_long_description">Burger adalah makanan cepat saji yang populer di seluruh dunia. Burger sering disajikan dengan berbagai tambahan seperti selada, tomat, keju, bawang, dan saus seperti saus tomat atau mayones. Kelezatan burger terletak pada perpaduan rasa gurih daging dengan tekstur renyah roti dan variasi rasa dari bahan tambahan, menjadikannya makanan yang memikat selera banyak orang.</string>
+    <string name="burger_price">Rp 35.000,00</string>
+    <string name="steak_title">Steak</string>
+    <string name="steak_short_description">Cocok bagi anda yang ingin merasakan lezatnya daging steak dipadukan dengan kentang yang lezat</string>
+    <string name="steak_long_description">Steak adalah hidangan daging yang terkenal akan cita rasa dan kelezatannya. Daging steak sering disajikan dengan saus, seperti saus bernaise atau saus lada hitam, serta berbagai tambahan seperti kentang goreng, sayuran panggang, atau jamur sauté. Keunggulan steak terletak pada rasa daging yang gurih, lembut, dan beraroma, menjadikannya pilihan makanan yang sering dinikmati di restoran dan di rumah.</string>
+    <string name="steak_price">Rp 110.000,00</string>
+    <string name="french_fries_title">French Fries</string>
+    <string name="french_fries_short_description">Cocok bagi anda yang ingin merasakan renyahnya kentang goreng yang lezat</string>
+    <string name="french_fries_long_description">French fries adalah camilan yang sangat populer di seluruh dunia. Kentang yang diiris tipis dan digoreng hingga renyah dan berwarna keemasan menjadi hidangan yang disukai oleh banyak orang. Tekstur renyah luar dan lembut dalam kentang, serta rasa gurih, membuat french fries menjadi camilan yang sangat menggugah selera dan sering menjadi favorit di restoran, kafe, dan tempat makan cepat saji.</string>
+    <string name="french_fries_price">Rp 18.000,00</string>
+    <string name="price_tag">Price: %1$s</string>
+    <string name="order_detail_text">%1$s\nStore: %2$s\n%3$s sudah dipesan</string>
+    <string name="toast_message_1">Terima kasih %1$s sudah memesan, pesanan %2$s anda dapat diambil sendiri di toko kami</string>
+    <string name="toast_message_2">Terima kasih %1$s sudah memesan di toko kami, pesanan %2$s anda dikirim menggunakan Fast Delivery</string>
+    <string name="title_activity_test_top_app_bar">testTopAppBar</string>
+</resources>
